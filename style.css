@@ -366,7 +366,7 @@ p {
 	color: white;
 }
 #projects .project-img {
-	flex-basis: 50%;
+	flex-basis: 80%;
 	height: 300px;
 	overflow: hidden;
 	position: relative;
