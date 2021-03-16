@@ -361,11 +361,15 @@ p {
 #projects .project-info p {
 	color: white;
 }
+#projects .project-info p {
+	color: white;
+}
 #projects .project-img {
 	flex-basis: 50%;
 	height: 300px;
 	overflow: hidden;
 	position: relative;
+	padding: 10px;
 }
 #projects .project-img:after {
 	content: '';
