@@ -477,7 +477,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	background: #1f2235;
 }
 #footer .footer {
 	min-height: 200px;
