@@ -370,6 +370,7 @@ p {
 	overflow: hidden;
 	position: relative;
 	padding: 10px;
+	background-color: #f5ba09;
 }
 #projects .project-img:after {
 	content: '';
