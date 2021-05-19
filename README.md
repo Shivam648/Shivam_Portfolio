@@ -3,7 +3,7 @@
 
 <h1>About Me</h1>
 
-<img align="left" src="img/Shivam.jpg">
+<img align="left"  width="50" height="50" src="img/Shivam.jpg">
 
 some text aligned to the right of the image
 
