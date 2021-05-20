@@ -9,49 +9,19 @@ Being a Sophomore , I am still learning and therefore need an opportunity to inh
 <br clear="left"/>
  
 
-<div class="skill">
-    <div class="row">
-    <div class="column">
+<p float="left">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"//>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-    </div>
-    <div class="column">
-      <img width="100" height="100" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/>
-    </div>
-    <div class="column">
+      <img width="100" height="100" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> 
       <img width="100" height="100" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
-    </div>   
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/>
-    </div>
-    <div class="column">
       <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>
-    </div>
-  </div>
-</div>
+ </p> 
