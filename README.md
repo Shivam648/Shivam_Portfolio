@@ -12,7 +12,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to inh
 <div class="skill">
     <div class="row">
     <div class="column">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+      <img width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     </div>
     <div class="column">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
