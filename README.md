@@ -25,6 +25,6 @@ Being a Sophomore , I am still learning and therefore need an opportunity to inh
       <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
       <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
       <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>
  </p> 
