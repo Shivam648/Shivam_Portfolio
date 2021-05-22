@@ -18,13 +18,13 @@ Being a Sophomore , I am still learning and therefore need an opportunity to inh
       <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
       <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"//>
       <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> 
-      <img width="80" height="80" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-      <img width="80" height="80" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> 
+      <img width="60" height="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+      <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
       <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/>
       <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>
  </p> 
