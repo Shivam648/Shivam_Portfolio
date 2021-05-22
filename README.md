@@ -13,7 +13,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to inh
  <p>SOMETIMES we're tested not to show our WEAKNESS but to discover our STRENGTH</p>
  <h4>The main area of my expertise is web development. HTML, CSS ,JS building small and medium web apps</h4>
 <p float="left">
-      <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
       <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
       <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
       <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"//>
